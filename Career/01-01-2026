@@ -1,1 +1,4 @@
-## learned use of pivot table in time-series.
+- learned use of pivot table in time-series.
+- adfuller (basic) vlaue<0.5 —>stationary value>0.5 —>non-stationary.
+- pivot table (easy for models to interpret)
+- seasonal decompose parameters
